@@ -1,0 +1,119 @@
+[
+  {
+    "_id": "5df430703d8a26279b5421dc",
+    "name": "Erick Jara",
+    "email": "erickjara7@cgautomatizacion.com",
+    "role": "admin",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5df43077dc878aaa0da0d9d4"
+  },
+  {
+    "_id": "5dfbcdf45535db3ebc3c29be",
+    "name": "Juan Martín Velázquez",
+    "email": "juanmartinvelazquez@te.com.mx",
+    "role": "admin",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5dfbcdf96b606b16fe488e98"
+  },
+  {
+    "_id": "5dfbce1748710600664468f6",
+    "name": "Fabián Franco",
+    "email": "fabianfranco@ford.com.mx",
+    "role": "admin",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5dfbce13420369c6221b610b"
+  },
+  {
+    "_id": "5dfbcfeb3dcd52e9ea4418ec",
+    "name": "Clarisa Brizuela",
+    "email": "clarisabrizuela@cgautomatizacion.com",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5df43077dc878aaa0da0d9d4"
+  },
+  {
+    "_id": "5dfbcf61546453ca4148b537",
+    "name": "Irene Covarrubias",
+    "email": "irenecovarrubias@cgautomatizacion.com",
+    "role": "manager",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbcf58066967f03b9976fa"
+  },
+  {
+    "_id": "5dfbcf6550ea19949c2cf907",
+    "name": "Diego Tejada",
+    "email": "diegotejada@cgautomatizacion.com",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbcf58066967f03b9976fa"
+  },
+  {
+    "_id": "5dfbd0d2ce7903807dfddcff",
+    "name": "José Lima",
+    "email": "joselima@te.com.mx",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5dfbcdf96b606b16fe488e98"
+  },
+  {
+    "_id": "5dfbd12acda9fd4b820ea37a",
+    "name": "Alfredo León",
+    "email": "alfredoleon@te.com.mx",
+    "role": "manager",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbd13e34847bae6b48c36d"
+  },
+  {
+    "_id": "5dfbd160864c4bb1fcad4e7e",
+    "name": "Octavio Guerrero",
+    "email": "octavioguerrero@te.com.mx",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbd13e34847bae6b48c36d"
+  },
+  {
+    "_id": "5dfbd1758dd3c5233a45cc7d",
+    "name": "Elisa Núñez",
+    "email": "elisanuñez@te.com.mx",
+    "role": "norole",
+    "active": "false",
+    "password": "12345678",
+    "branch": "5dfbd13e34847bae6b48c36d"
+  },
+  {
+    "_id": "5dfbd20f051e94cc96fd1184",
+    "name": "Rebeca Reyes",
+    "email": "rebecareyes@ford.com.mx",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "parent": "5dfbce13420369c6221b610b"
+  },
+  {
+    "_id": "5dfbd235a26dd4be3d5f9d8c",
+    "name": "Mariano Campos",
+    "email": "marianocampos@ford.com.mx",
+    "role": "manager",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbd23d1c2e262307b40f5b"
+  },
+  {
+    "_id": "5dfbd29a2397bfc6e716bce4",
+    "name": "Samuel Cano",
+    "email": "samuelcano@ford.com.mx",
+    "role": "publisher",
+    "active": "true",
+    "password": "12345678",
+    "branch": "5dfbd23d1c2e262307b40f5b"
+  }
+]

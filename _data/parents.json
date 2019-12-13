@@ -1,0 +1,63 @@
+[
+  {
+    "_id": "5df43077dc878aaa0da0d9d4",
+    "name": "CG AUTOMATIZACION SA DE CV",
+    "address": {
+      "street": "Genaro Moreno #50",
+      "streetAditional": "Esquina Martín Portela",
+      "district": "Mini Parque Industrial",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83118"
+    },
+    "contact": {
+      "phone": "6622184055",
+      "email": "ventas@cgautomatizacion.com"
+    },
+    "products": ["5dfbd38e78911112443eb18e"],
+    "branches": ["5dfbcf58066967f03b9976fa"],
+    "users": ["5dfbcfeb3dcd52e9ea4418ec"],
+    "admin": "5df430703d8a26279b5421dc"
+  },
+  {
+    "_id": "5dfbcdf96b606b16fe488e98",
+    "name": "TE CONNECTIVITY",
+    "address": {
+      "street": "Boulevard Industrial 23",
+      "district": "Parque Industrial Norte",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83118"
+    },
+    "contact": {
+      "phone": "6625003848",
+      "email": "contacto@te.com.mx"
+    },
+    "products": ["5dfbe613d2fa93fb384430e4"],
+    "branches": ["5dfbd13e34847bae6b48c36d"],
+    "users": ["5dfbd0d2ce7903807dfddcff"],
+    "admin": "5dfbcdf45535db3ebc3c29be"
+  },
+  {
+    "_id": "5dfbce13420369c6221b610b",
+    "name": "Ford Hermosillo",
+    "address": {
+      "street": "KM 4.5, Carr. a la Colorada",
+      "district": "Parque Industrial",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83299"
+    },
+    "contact": {
+      "phone": "6622598000",
+      "email": "contactohermosillo@ford.com.mx"
+    },
+    "products": ["5dfbe8ec8782254966205eff"],
+    "branches": ["5dfbd23d1c2e262307b40f5b"],
+    "users": ["5dfbd20f051e94cc96fd1184"],
+    "admin": "5dfbce1748710600664468f6"
+  }
+]

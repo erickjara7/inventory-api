@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "5dfbcf58066967f03b9976fa",
+    "products": ["5dfbd5bb98ae8b532d4602ac"],
+    "users": ["5dfbcf6550ea19949c2cf907"],
+    "name": "Sucursal Centro",
+    "address": {
+      "street": "Av. Dr. Alberto G. Noriega 86",
+      "district": "Centro",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83000"
+    },
+    "contact": {
+      "phone": "6622175269",
+      "email": "suc_centro@cgautomatizacion.com"
+    },
+    "manager": "5dfbcf61546453ca4148b537",
+    "parent": "5df43077dc878aaa0da0d9d4"
+  },
+  {
+    "_id": "5dfbd13e34847bae6b48c36d",
+    "products": ["5dfbe8408ececab95a1c0344"],
+    "users": ["5dfbd160864c4bb1fcad4e7e", "5dfbd1758dd3c5233a45cc7d"],
+    "name": "TE Connectivity Aeroespacial",
+    "address": {
+      "street": "Boulevard Antonio Quiroga 22",
+      "district": "El Llano",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83210"
+    },
+    "contact": {
+      "phone": "6623195400",
+      "email": "aeroespacial_hermosillo@te.com.mx"
+    },
+    "manager": "5dfbd12acda9fd4b820ea37a",
+    "parent": "5dfbcdf96b606b16fe488e98"
+  },
+  {
+    "_id": "5dfbd23d1c2e262307b40f5b",
+    "products": ["5dfbe9ba6f64ee0b0b66145f"],
+    "users": ["5dfbd29a2397bfc6e716bce4"],
+    "name": "Ford BODY SHOP",
+    "address": {
+      "street": "Bv. Paseo de las Quintas 38",
+      "district": "Santa Fe",
+      "city": "Hermosillo",
+      "state": "Sonora",
+      "country": "Mexico",
+      "zipCode": "83249"
+    },
+    "contact": {
+      "phone": "6622898505",
+      "email": "bodyshop@fordhermosillo.com.mx"
+    },
+    "manager": "5dfbd235a26dd4be3d5f9d8c",
+    "parent": "5dfbce13420369c6221b610b"
+  }
+]
