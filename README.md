@@ -33,7 +33,7 @@ Por motivos de seguridad y que estas pueden cambiar, el archivo que contiene las
 
 <details><summary><b>Ver instrucciones</b></summary>
 
-1.  Crear archivo 'config.env' en carpeta config y agregar lo siguiente:
+1.  Crear archivo `config.env` en carpeta config y agregar lo siguiente:
 
 ```diff
   NODE_ENV=development
@@ -47,7 +47,7 @@ Por motivos de seguridad y que estas pueden cambiar, el archivo que contiene las
 
 - Tambien puede ser una base de datos en local o en otro servicio que utilice (debe ser MongoDB y que ofrezca un string de conexion).
 
-3.  Copiar el string de conexion y agregarlo al archivo `conf.env`:
+3.  Copiar el string de conexion y agregarlo al archivo `config.env`:
 
 ```diff
     NODE_ENV=development
@@ -69,7 +69,7 @@ Por motivos de seguridad y que estas pueden cambiar, el archivo que contiene las
 +   JWT_COOKIE_EXPIRE=30
 ```
 
-5.  Si desea hacer uso del reestablecimiento de contraseñas requiere de un servidor SMTP para enviar correos (para efectos de prueba puede usar https://mailtrap.io/) y agregar los datos al `conf.env`:
+5.  Si desea hacer uso del reestablecimiento de contraseñas requiere de un servidor SMTP para enviar correos (para efectos de prueba puede usar https://mailtrap.io/) y agregar los datos al `config.env`:
 
 ```diff
     NODE_ENV=development
@@ -89,7 +89,7 @@ Por motivos de seguridad y que estas pueden cambiar, el archivo que contiene las
 +   FROM_NAME=
 ```
 
-6.  Para establecer la carpeta donde se subiran archivos (como las imagenes de productos) asi como su tamaño, debe agregar lo siguiente a su archivo `conf.env`:
+6.  Para establecer la carpeta donde se subiran archivos (como las imagenes de productos) asi como su tamaño, debe agregar lo siguiente a su archivo `config.env`:
 
 ```diff
     NODE_ENV=development
